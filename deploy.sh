@@ -19,4 +19,3 @@ git commit -m 'deploy'
 
 cd ..
 
-tcb hosting:deploy public -e blog-9g8lgnuke4603ff9
