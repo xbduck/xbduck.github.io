@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 三元同学的博客
+heroText: 三元同学的博客1
 tagline: 认真写点儿东西
 # heroImage: /hero.png
 # heroImageStyle: {
