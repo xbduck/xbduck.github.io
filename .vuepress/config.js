@@ -50,19 +50,19 @@ module.exports = {
         items: [
           {
             text: "GitHub",
-            link: "https://github.com/sanyuan0704/my_blog",
+            link: "https://github.com/xbduck/xbduck.github.io",
             icon: "reco-github",
           },
-          {
-            text: "掘金",
-            link: "https://juejin.cn/user/430664257382462",
-            icon: "reco-juejin",
-          },
-          {
-            text: "知乎",
-            link: "https://www.zhihu.com/people/yang-xing-yuan-9",
-            icon: "reco-zhihu",
-          },
+          // {
+          //   text: "掘金",
+          //   link: "https://juejin.cn/user/430664257382462",
+          //   icon: "reco-juejin",
+          // },
+          // {
+          //   text: "知乎",
+          //   link: "https://www.zhihu.com/people/yang-xing-yuan-9",
+          //   icon: "reco-zhihu",
+          // },
         ],
       },
     ],
