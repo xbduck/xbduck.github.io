@@ -1,7 +1,7 @@
 const sidebar = require("./siderbar.js");
 module.exports = {
-  title: "三元博客",
-  description: "三元同学的博客",
+  title: "鹏辉博客",
+  description: "鹏辉同学的博客",
   dest: "docs",
   // "base": '/docs/',
   base: "/",
@@ -82,7 +82,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
-    author: "sanyuan",
+    author: "penghui",
     authorAvatar: "/avatar.jpg",
     record: "xxxx",
     startYear: "2020",
