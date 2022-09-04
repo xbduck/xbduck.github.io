@@ -82,10 +82,10 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
-    author: "penghui",
+    author: "zihao",
     authorAvatar: "/avatar.jpg",
     record: "xxxx",
-    startYear: "2020",
+    startYear: "2022",
   },
   markdown: {
     lineNumbers: true,
